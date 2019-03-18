@@ -1,9 +1,9 @@
 
-
-
-
-
-
-
-
-1.1.1使用evince打开
+1.1.1使用evince打开pdf,但打开时终端窗口被使用，不能用作其他；
+1.1.2使用anaconda，可以用conda install <package name>来安装；
+https://www.jianshu.com/p/62f155eb6ac5，这个网址有anaconda与conda的区别，以及用其安装的方法；
+1.1.3vim中如何把粘贴板上的内容复制到文件中，先进入编辑模式，然后按shift+insert粘贴剪切版上的内容
+1.1.4用$ sudo apt-get install build-essential配置安装gcc；
+1.1.5使用git， 添加文件夹下所有文件到暂存区 git add .
+提交：git commit -m 'insist'；
+推送：git push -u origin master；
