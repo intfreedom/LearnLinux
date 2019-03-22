@@ -1,4 +1,6 @@
-
+1.8
+Visual Studio Code进展，ctrl+shift+p,打开命令行，用install from VSIX可为其
+安装插件；
 1.1.1使用evince打开pdf,但打开时终端窗口被使用，不能用作其他；
 1.1.2使用anaconda，可以用conda install <package name>来安装；
 https://www.jianshu.com/p/62f155eb6ac5，这个网址有anaconda与conda的区别，以及用其安装的方法；
