@@ -1,3 +1,11 @@
+1.10
+若安装程序中会有一些权限问题，比如安装visual studio的C++依赖包，出现权限问题，
+就把，visual studio的权限提升，例如，chown -R root ./.vscode，
+把当前目录这个文件的拥有者提升为root，file的属性，先所有者，后所属组；
+1.9
+查看一个程序安装目录，若该程序已打开可以先用ps -e看该程序名，例如
+Visual Studio程序，名称实为：code，再用dpkg -l或者find命令查看位置；
+
 1.8
 Visual Studio Code进展，ctrl+shift+p,打开命令行，用install from VSIX可为其
 安装插件；
