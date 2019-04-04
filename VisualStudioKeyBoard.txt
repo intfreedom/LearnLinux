@@ -1,3 +1,6 @@
 1.1.1Visual Studio 中如何同时注释多行和取消注释多行
 注释多行：先按 Ctrl - K 组合键，再按 Ctrl - C 组合键
 取消注释多行：先按 Ctrl - K 组合键，再按 Ctrl - U 组合键
+1.1.2
+按下Ctrl+Enter会在上面插入一个空行，
+Ctrl+Shift+Enter则会在下面插入一个空行。光标会移至新行的开始处。 

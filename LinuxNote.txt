@@ -22,6 +22,10 @@ https://www.jianshu.com/p/62f155eb6ac5，这个网址有anaconda与conda的区�
 1.1.5使用git， 添加文件夹下所有文件到暂存区 git add .
 提交：git commit -m 'insist'；
 推送：git push -u origin master；
+
+从远程库拉取：git pull 就可以
+但为了安全起见，应该用其他名称，先拉取一个临时的，比较差异；
+
 1.1.6在vim里，ctrl+s，是window保存，但在ctrl+s 是”阻断向终端输出”，误按此键即进入挂死状态！此键是windows的文档保存快捷键，windows转来的程序员会很容易就被触发此键！，trl+q 按此下此快捷键即可解除！意思是”恢复向终端输出”。
 1.1.7从远程库克隆：
 git clone git@github.com:intfreedom/LearnC.git
