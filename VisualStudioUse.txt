@@ -6,3 +6,10 @@
 Ctrl+Shift+Enter则会在下面插入一个空行。光标会移至新行的开始处。 
 1.1.3
 安装HelpView，需要用的一些功能查找；
+
+1.1.5
+ctrl+shift+n新建项目；
+ctrl+shift+a新建项目后，进行新建源文件；
+alt+shift+a新建项目后，添加现有文件；
+
+1.1.6
