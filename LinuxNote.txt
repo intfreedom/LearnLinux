@@ -4,6 +4,7 @@ git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
 1.1.8.2
 参与Linux内核邮件组开发http://vger.kernel.org/vger-lists.html#linux-kernel
 邮件组，订阅邮件组；
+
 1.1.8.3
 Linux kernel 中Makefile中会有更新信息；drivers驱动，占内核代码80%；用source insight阅读内核代码；
 1.1.8
@@ -41,3 +42,9 @@ https://www.jianshu.com/p/62f155eb6ac5，这个网址有anaconda与conda的区�
 1.1.6在vim里，ctrl+s，是window保存，但在ctrl+s 是”阻断向终端输出”，误按此键即进入挂死状态！此键是windows的文档保存快捷键，windows转来的程序员会很容易就被触发此键！，trl+q 按此下此快捷键即可解除！意思是”恢复向终端输出”。
 1.1.7从远程库克隆：
 git clone git@github.com:intfreedom/LearnC.git
+1.1.7.1
+从远程库更新现有代码：
+https://blog.csdn.net/zhongzunfa/article/details/80344585教程；
+1.1.7.2
+参与github上的项目，找到项目地址：
+fork,之后按照上一条更新；
