@@ -1,4 +1,12 @@
-﻿1.1.8
+﻿1.1.8.1
+从以下地址克隆Linux源代码，那么怎么更新？？？
+git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+1.1.8.2
+参与Linux内核邮件组开发http://vger.kernel.org/vger-lists.html#linux-kernel
+邮件组，订阅邮件组；
+1.1.8.3
+Linux kernel 中Makefile中会有更新信息；drivers驱动，占内核代码80%；用source insight阅读内核代码；
+1.1.8
 反引号 `    `，里面的内容在终端里识别为命令，输出结果替代包括反引号在内的部分；
 cd `cd ~`
 
